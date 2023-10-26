@@ -1,5 +1,6 @@
 version: 2.1
 
+# Minor change to see how change config.yml from CircleCI GUI
 parameters:
   run-schedule:
     type: boolean
